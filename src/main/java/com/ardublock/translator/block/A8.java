@@ -14,7 +14,7 @@ public class A8 extends TranslatorBlock
 
 		@Override
 		public String toCode() throws SocketNullException {
-			return codePrefix + "A8" + codeSuffix;
+			return codePrefix + label + codeSuffix;
 		}
 		
 	}

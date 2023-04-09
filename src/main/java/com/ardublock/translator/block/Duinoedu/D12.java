@@ -13,7 +13,7 @@ public class D12 extends TranslatorBlock
 
 	@Override
 	public String toCode() throws SocketNullException {
-		return codePrefix + "12" + codeSuffix;
+		return codePrefix + label + codeSuffix;
 	}
 
 }

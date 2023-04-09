@@ -521,156 +521,156 @@
 <!--****************** Pin Drop Down List Members *************** -->
 		
 		<!--****************** Analog DAC pins on all Arduino Boards *************** -->
-		<BlockGenus name="pinListAnalog_A0" kind="data" color="195 130 0" initlabel="bg.pinListMember_A0" editable-label="no">
+		<BlockGenus name="pinListAnalog_A0" kind="data" color="195 130 0" initlabel="bg.pinListMember_A0" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalog_A1" kind="data" color="195 130 0" initlabel="bg.pinListMember_A1" editable-label="no">
+		<BlockGenus name="pinListAnalog_A1" kind="data" color="195 130 0" initlabel="bg.pinListMember_A1" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalog_A2" kind="data" color="195 130 0" initlabel="bg.pinListMember_A2" editable-label="no">
+		<BlockGenus name="pinListAnalog_A2" kind="data" color="195 130 0" initlabel="bg.pinListMember_A2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalog_A3" kind="data" color="195 130 0" initlabel="bg.pinListMember_A3" editable-label="no">
+		<BlockGenus name="pinListAnalog_A3" kind="data" color="195 130 0" initlabel="bg.pinListMember_A3" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalog_A4" kind="data" color="195 130 0" initlabel="bg.pinListMember_A4" editable-label="no">
+		<BlockGenus name="pinListAnalog_A4" kind="data" color="195 130 0" initlabel="bg.pinListMember_A4" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalog_A5" kind="data" color="195 130 0" initlabel="bg.pinListMember_A5" editable-label="no">
+		<BlockGenus name="pinListAnalog_A5" kind="data" color="195 130 0" initlabel="bg.pinListMember_A5" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
 		<!--****************** Extra Analog DAC pins on Arduino Nano/Mega only *************** -->
-		<BlockGenus name="pinListAnalog_A6" kind="data" color="195 130 0" initlabel="bg.pinListMember_A6" editable-label="no">
+		<BlockGenus name="pinListAnalog_A6" kind="data" color="195 130 0" initlabel="bg.pinListMember_A6" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalog_A7" kind="data" color="195 130 0" initlabel="bg.pinListMember_A7" editable-label="no">
+		<BlockGenus name="pinListAnalog_A7" kind="data" color="195 130 0" initlabel="bg.pinListMember_A7" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
 		<!--****************** Extra Analog DAC pins on Arduino Mega only *************** -->
-		<BlockGenus name="pinListAnalog_A8" kind="data" color="195 130 0" initlabel="bg.pinListMember_A8" editable-label="no">
+		<BlockGenus name="pinListAnalog_A8" kind="data" color="195 130 0" initlabel="bg.pinListMember_A8" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalog_A9" kind="data" color="195 130 0" initlabel="bg.pinListMember_A9" editable-label="no">
+		<BlockGenus name="pinListAnalog_A9" kind="data" color="195 130 0" initlabel="bg.pinListMember_A9" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalog_A10" kind="data" color="195 130 0" initlabel="bg.pinListMember_A10" editable-label="no">
+		<BlockGenus name="pinListAnalog_A10" kind="data" color="195 130 0" initlabel="bg.pinListMember_A10" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalog_A11" kind="data" color="195 130 0" initlabel="bg.pinListMember_A11" editable-label="no">
+		<BlockGenus name="pinListAnalog_A11" kind="data" color="195 130 0" initlabel="bg.pinListMember_A11" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalog_A12" kind="data" color="195 130 0" initlabel="bg.pinListMember_A12" editable-label="no">
+		<BlockGenus name="pinListAnalog_A12" kind="data" color="195 130 0" initlabel="bg.pinListMember_A12" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalog_A13" kind="data" color="195 130 0" initlabel="bg.pinListMember_A13" editable-label="no">
+		<BlockGenus name="pinListAnalog_A13" kind="data" color="195 130 0" initlabel="bg.pinListMember_A13" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalog_A14" kind="data" color="195 130 0" initlabel="bg.pinListMember_A14" editable-label="no">
+		<BlockGenus name="pinListAnalog_A14" kind="data" color="195 130 0" initlabel="bg.pinListMember_A14" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalog_A15" kind="data" color="195 130 0" initlabel="bg.pinListMember_A15" editable-label="no">
+		<BlockGenus name="pinListAnalog_A15" kind="data" color="195 130 0" initlabel="bg.pinListMember_A15" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
 		
 		<!--****************** Digital pins on all Arduino boards *************** -->
-		<BlockGenus name="pinListDigital_D0" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D0" editable-label="no">
+		<BlockGenus name="pinListDigital_D0" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D0" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D1" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D1" editable-label="no">
+		<BlockGenus name="pinListDigital_D1" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D1" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D2" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D2" editable-label="no">
+		<BlockGenus name="pinListDigital_D2" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D3" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D3" editable-label="no">
+		<BlockGenus name="pinListDigital_D3" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D3" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D4" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D4" editable-label="no">
+		<BlockGenus name="pinListDigital_D4" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D4" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D5" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D5" editable-label="no">
+		<BlockGenus name="pinListDigital_D5" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D5" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D6" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D6" editable-label="no">
+		<BlockGenus name="pinListDigital_D6" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D6" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D7" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D7" editable-label="no">
+		<BlockGenus name="pinListDigital_D7" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D7" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D8" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D8" editable-label="no">
+		<BlockGenus name="pinListDigital_D8" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D8" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D9" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D9" editable-label="no">
+		<BlockGenus name="pinListDigital_D9" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D9" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D10" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D10" editable-label="no">
+		<BlockGenus name="pinListDigital_D10" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D10" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D11" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D11" editable-label="no">
+		<BlockGenus name="pinListDigital_D11" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D11" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D12" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D12" editable-label="no">
+		<BlockGenus name="pinListDigital_D12" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D12" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D13" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D13" editable-label="no">
+		<BlockGenus name="pinListDigital_D13" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D13" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
@@ -683,286 +683,286 @@
 		<!--** NOTE ** -->
 		<!--** On the MEGA pins marked A0 - A15 map to D54 - D69 and so code using 'A(x)'   	** -->
 		<!--** referencing can have unintended consequences when uploaded to different boards.  ** -->
-		<BlockGenus name="pinListDigital_D14" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D14" editable-label="no">
+		<BlockGenus name="pinListDigital_D14" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D14" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D15" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D15" editable-label="no">
+		<BlockGenus name="pinListDigital_D15" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D15" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D16" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D16" editable-label="no">
+		<BlockGenus name="pinListDigital_D16" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D16" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D17" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D17" editable-label="no">
+		<BlockGenus name="pinListDigital_D17" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D17" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D18" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D18" editable-label="no">
+		<BlockGenus name="pinListDigital_D18" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D18" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D19" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D19" editable-label="no">
+		<BlockGenus name="pinListDigital_D19" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D19" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
 		
 		<!--****************** Extra Digital pins on Mega Boards only *************** -->
-				<BlockGenus name="pinListDigital_D20" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D20" editable-label="no">
+				<BlockGenus name="pinListDigital_D20" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D20" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D21" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D21" editable-label="no">
+		<BlockGenus name="pinListDigital_D21" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D21" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D22" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D22" editable-label="no">
+		<BlockGenus name="pinListDigital_D22" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D22" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D23" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D23" editable-label="no">
+		<BlockGenus name="pinListDigital_D23" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D23" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D24" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D24" editable-label="no">
+		<BlockGenus name="pinListDigital_D24" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D24" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D25" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D25" editable-label="no">
+		<BlockGenus name="pinListDigital_D25" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D25" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D26" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D26" editable-label="no">
+		<BlockGenus name="pinListDigital_D26" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D26" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D27" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D27" editable-label="no">
+		<BlockGenus name="pinListDigital_D27" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D27" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D28" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D28" editable-label="no">
+		<BlockGenus name="pinListDigital_D28" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D28" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D29" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D29" editable-label="no">
+		<BlockGenus name="pinListDigital_D29" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D29" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
 		
-		<BlockGenus name="pinListDigital_D30" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D30" editable-label="no">
+		<BlockGenus name="pinListDigital_D30" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D30" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D31" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D31" editable-label="no">
+		<BlockGenus name="pinListDigital_D31" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D31" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D32" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D32" editable-label="no">
+		<BlockGenus name="pinListDigital_D32" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D32" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D33" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D33" editable-label="no">
+		<BlockGenus name="pinListDigital_D33" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D33" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D34" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D34" editable-label="no">
+		<BlockGenus name="pinListDigital_D34" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D34" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D35" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D35" editable-label="no">
+		<BlockGenus name="pinListDigital_D35" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D35" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D36" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D36" editable-label="no">
+		<BlockGenus name="pinListDigital_D36" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D36" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D37" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D37" editable-label="no">
+		<BlockGenus name="pinListDigital_D37" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D37" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D38" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D38" editable-label="no">
+		<BlockGenus name="pinListDigital_D38" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D38" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D39" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D39" editable-label="no">
-			<BlockConnectors>
-				<BlockConnector connector-type="number" connector-kind="plug"/>
-			</BlockConnectors>		
-		</BlockGenus>
-
-		<BlockGenus name="pinListDigital_D40" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D40" editable-label="no">
-			<BlockConnectors>
-				<BlockConnector connector-type="number" connector-kind="plug"/>
-			</BlockConnectors>		
-		</BlockGenus>
-		<BlockGenus name="pinListDigital_D41" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D41" editable-label="no">
-			<BlockConnectors>
-				<BlockConnector connector-type="number" connector-kind="plug"/>
-			</BlockConnectors>		
-		</BlockGenus>
-		<BlockGenus name="pinListDigital_D42" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D42" editable-label="no">
-			<BlockConnectors>
-				<BlockConnector connector-type="number" connector-kind="plug"/>
-			</BlockConnectors>		
-		</BlockGenus>
-		<BlockGenus name="pinListDigital_D43" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D43" editable-label="no">
-			<BlockConnectors>
-				<BlockConnector connector-type="number" connector-kind="plug"/>
-			</BlockConnectors>		
-		</BlockGenus>
-		<BlockGenus name="pinListDigital_D44" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D44" editable-label="no">
-			<BlockConnectors>
-				<BlockConnector connector-type="number" connector-kind="plug"/>
-			</BlockConnectors>		
-		</BlockGenus>
-		<BlockGenus name="pinListDigital_D45" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D45" editable-label="no">
-			<BlockConnectors>
-				<BlockConnector connector-type="number" connector-kind="plug"/>
-			</BlockConnectors>		
-		</BlockGenus>
-		<BlockGenus name="pinListDigital_D46" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D46" editable-label="no">
-			<BlockConnectors>
-				<BlockConnector connector-type="number" connector-kind="plug"/>
-			</BlockConnectors>		
-		</BlockGenus>
-		<BlockGenus name="pinListDigital_D47" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D47" editable-label="no">
-			<BlockConnectors>
-				<BlockConnector connector-type="number" connector-kind="plug"/>
-			</BlockConnectors>		
-		</BlockGenus>
-		<BlockGenus name="pinListDigital_D48" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D48" editable-label="no">
-			<BlockConnectors>
-				<BlockConnector connector-type="number" connector-kind="plug"/>
-			</BlockConnectors>		
-		</BlockGenus>
-		<BlockGenus name="pinListDigital_D49" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D49" editable-label="no">
+		<BlockGenus name="pinListDigital_D39" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D39" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
 
-		<BlockGenus name="pinListDigital_D50" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D50" editable-label="no">
+		<BlockGenus name="pinListDigital_D40" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D40" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D51" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D51" editable-label="no">
+		<BlockGenus name="pinListDigital_D41" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D41" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D52" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D52" editable-label="no">
+		<BlockGenus name="pinListDigital_D42" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D42" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D53" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D53" editable-label="no">
+		<BlockGenus name="pinListDigital_D43" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D43" editable-label="yes">
+			<BlockConnectors>
+				<BlockConnector connector-type="number" connector-kind="plug"/>
+			</BlockConnectors>		
+		</BlockGenus>
+		<BlockGenus name="pinListDigital_D44" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D44" editable-label="yes">
+			<BlockConnectors>
+				<BlockConnector connector-type="number" connector-kind="plug"/>
+			</BlockConnectors>		
+		</BlockGenus>
+		<BlockGenus name="pinListDigital_D45" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D45" editable-label="yes">
+			<BlockConnectors>
+				<BlockConnector connector-type="number" connector-kind="plug"/>
+			</BlockConnectors>		
+		</BlockGenus>
+		<BlockGenus name="pinListDigital_D46" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D46" editable-label="yes">
+			<BlockConnectors>
+				<BlockConnector connector-type="number" connector-kind="plug"/>
+			</BlockConnectors>		
+		</BlockGenus>
+		<BlockGenus name="pinListDigital_D47" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D47" editable-label="yes">
+			<BlockConnectors>
+				<BlockConnector connector-type="number" connector-kind="plug"/>
+			</BlockConnectors>		
+		</BlockGenus>
+		<BlockGenus name="pinListDigital_D48" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D48" editable-label="yes">
+			<BlockConnectors>
+				<BlockConnector connector-type="number" connector-kind="plug"/>
+			</BlockConnectors>		
+		</BlockGenus>
+		<BlockGenus name="pinListDigital_D49" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D49" editable-label="yes">
+			<BlockConnectors>
+				<BlockConnector connector-type="number" connector-kind="plug"/>
+			</BlockConnectors>		
+		</BlockGenus>
+
+		<BlockGenus name="pinListDigital_D50" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D50" editable-label="yes">
+			<BlockConnectors>
+				<BlockConnector connector-type="number" connector-kind="plug"/>
+			</BlockConnectors>		
+		</BlockGenus>
+		<BlockGenus name="pinListDigital_D51" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D51" editable-label="yes">
+			<BlockConnectors>
+				<BlockConnector connector-type="number" connector-kind="plug"/>
+			</BlockConnectors>		
+		</BlockGenus>
+		<BlockGenus name="pinListDigital_D52" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D52" editable-label="yes">
+			<BlockConnectors>
+				<BlockConnector connector-type="number" connector-kind="plug"/>
+			</BlockConnectors>		
+		</BlockGenus>
+		<BlockGenus name="pinListDigital_D53" kind="data" color="214 169 54" initlabel="bg.pinListDigital_D53" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>		
 
 		<!--****************** 'Analog' PWM pins on All Arduino Boards *************** -->
-		<BlockGenus name="pinListAnalogWrite_D3" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D3" editable-label="no">
+		<BlockGenus name="pinListAnalogWrite_D3" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D3" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalogWrite_D5" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D5" editable-label="no">
+		<BlockGenus name="pinListAnalogWrite_D5" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D5" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalogWrite_D6" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D6" editable-label="no">
+		<BlockGenus name="pinListAnalogWrite_D6" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D6" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalogWrite_D9" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D9" editable-label="no">
+		<BlockGenus name="pinListAnalogWrite_D9" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D9" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalogWrite_D10" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D10" editable-label="no">
+		<BlockGenus name="pinListAnalogWrite_D10" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D10" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalogWrite_D11" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_11" editable-label="no">
+		<BlockGenus name="pinListAnalogWrite_D11" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_11" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
 		
 		<!--****************** Extra 'Analog' PWM pins on Mega Boards*************** -->
-		<BlockGenus name="pinListAnalogWrite_D2" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D2" editable-label="no">
+		<BlockGenus name="pinListAnalogWrite_D2" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalogWrite_D4" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D4" editable-label="no">
+		<BlockGenus name="pinListAnalogWrite_D4" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D4" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalogWrite_D7" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D7" editable-label="no">
+		<BlockGenus name="pinListAnalogWrite_D7" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D7" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalogWrite_D8" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D8" editable-label="no">
+		<BlockGenus name="pinListAnalogWrite_D8" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D8" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalogWrite_D12" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D12" editable-label="no">
+		<BlockGenus name="pinListAnalogWrite_D12" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D12" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalogWrite_D13" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D13" editable-label="no">
+		<BlockGenus name="pinListAnalogWrite_D13" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D13" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalogWrite_D44" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D44" editable-label="no">
+		<BlockGenus name="pinListAnalogWrite_D44" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D44" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalogWrite_D45" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D45" editable-label="no">
+		<BlockGenus name="pinListAnalogWrite_D45" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D45" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="pinListAnalogWrite_D46" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D46" editable-label="no">
+		<BlockGenus name="pinListAnalogWrite_D46" kind="data" color="160 0 0" initlabel="bg.pinListAnalogWrite_D46" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
@@ -1135,42 +1135,42 @@
 				</BlockConnector>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="LEVEL1" kind="data" color="214 169 54" initlabel="bg.LEVEL1" editable-label="no">
+		<BlockGenus name="LEVEL1" kind="data" color="214 169 54" initlabel="bg.LEVEL1" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="boolean" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="LEVEL0" kind="data" color="214 169 54" initlabel="bg.LEVEL0" editable-label="no">
+		<BlockGenus name="LEVEL0" kind="data" color="214 169 54" initlabel="bg.LEVEL0" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="boolean" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="PORTA2" kind="data" color="77 191 169" initlabel="bg.PORTA2" editable-label="no">
+		<BlockGenus name="PORTA2" kind="data" color="77 191 169" initlabel="bg.PORTA2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="PORTB2" kind="data" color="77 191 169" initlabel="bg.PORTB2" editable-label="no">
+		<BlockGenus name="PORTB2" kind="data" color="77 191 169" initlabel="bg.PORTB2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="PORTC2" kind="data" color="77 191 169" initlabel="bg.PORTC2" editable-label="no">
+		<BlockGenus name="PORTC2" kind="data" color="77 191 169" initlabel="bg.PORTC2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="PORTD2" kind="data" color="77 191 169" initlabel="bg.PORTD2" editable-label="no">
+		<BlockGenus name="PORTD2" kind="data" color="77 191 169" initlabel="bg.PORTD2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="PORTH2" kind="data" color="77 191 169" initlabel="bg.PORTH2" editable-label="no">
+		<BlockGenus name="PORTH2" kind="data" color="77 191 169" initlabel="bg.PORTH2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="PORTL2" kind="data" color="77 191 169" initlabel="bg.PORTL2" editable-label="no">
+		<BlockGenus name="PORTL2" kind="data" color="77 191 169" initlabel="bg.PORTL2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
@@ -1880,7 +1880,7 @@
 			</BlockConnectors>
 		</BlockGenus>
 		
-		<BlockGenus name="pinListDigital_D0" kind="data" color="214 169 54 " initlabel="bg.pinListDigital_D0" editable-label="no">
+		<BlockGenus name="pinListDigital_D0" kind="data" color="214 169 54 " initlabel="bg.pinListDigital_D0" editable-label="yes">
 			<description>
 				<text>
 					Digital Pin Constant
@@ -1891,7 +1891,7 @@
 			</BlockConnectors>
 		</BlockGenus>
 		
-		<BlockGenus name="pinListDigital_D6" kind="data" color="214 169 54 " initlabel="bg.pinListDigital_D6" editable-label="no">
+		<BlockGenus name="pinListDigital_D6" kind="data" color="214 169 54 " initlabel="bg.pinListDigital_D6" editable-label="yes">
 			<description>
 				<text>
 					Digital Pin Constant
@@ -1902,7 +1902,7 @@
 			</BlockConnectors>
 		</BlockGenus>
 		
-		<BlockGenus name="pinListDigital_D8" kind="data" color="214 169 54 " initlabel="bg.pinListDigital_D8" editable-label="no">
+		<BlockGenus name="pinListDigital_D8" kind="data" color="214 169 54 " initlabel="bg.pinListDigital_D8" editable-label="yes">
 			<description>
 				<text>
 					Digital Pin Constant
@@ -1913,7 +1913,7 @@
 			</BlockConnectors>
 		</BlockGenus>
 		
-		<BlockGenus name="pinListDigital_D11" kind="data" color="214 169 54 " initlabel="bg.pinListDigital_D11" editable-label="no">
+		<BlockGenus name="pinListDigital_D11" kind="data" color="214 169 54 " initlabel="bg.pinListDigital_D11" editable-label="yes">
 			<description>
 				<text>
 					Digital Pin Constant
@@ -1923,7 +1923,7 @@
 				<BlockConnector connector-type="number" connector-kind="plug"  />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="pinListDigital_D12" kind="data" color="214 169 54 " initlabel="bg.pinListDigital_D12" editable-label="no">
+		<BlockGenus name="pinListDigital_D12" kind="data" color="214 169 54 " initlabel="bg.pinListDigital_D12" editable-label="yes">
 			<description>
 				<text>
 					Digital Pin Constant
@@ -1934,7 +1934,7 @@
 			</BlockConnectors>
 		</BlockGenus>
 		
-		<BlockGenus name="pinListDigital_D13" kind="data" color="214 169 54 " initlabel="bg.pinListDigital_D13" editable-label="no">
+		<BlockGenus name="pinListDigital_D13" kind="data" color="214 169 54 " initlabel="bg.pinListDigital_D13" editable-label="yes">
 			<description>
 				<text>
 					Digital Pin Constant
@@ -1944,7 +1944,7 @@
 				<BlockConnector connector-type="number" connector-kind="plug"  />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="pinListAnalog_A0" kind="data" color="195 130 0 " initlabel="bg.pinListAnalog_D0" editable-label="no">
+		<BlockGenus name="pinListAnalog_A0" kind="data" color="195 130 0 " initlabel="bg.pinListAnalog_D0" editable-label="yes">
 			<description>
 				<text>
 					Analog Pin Constant
@@ -1955,7 +1955,7 @@
 			</BlockConnectors>
 		</BlockGenus>
 		
-		<BlockGenus name="pinListAnalogWrite_D3" kind="data" color="160 0 0 " initlabel="bg." editable-label="no">
+		<BlockGenus name="pinListAnalogWrite_D3" kind="data" color="160 0 0 " initlabel="bg." editable-label="yes">
 			<description>
 				<text>
 					PWM Pin Constant
@@ -1994,7 +1994,7 @@
 			</BlockConnectors>
 		</BlockGenus>
 		
-		<BlockGenus name="number-single-fixed-parallel" kind="data" color="205 133 63" initlabel="Parallel" editable-label="no" is-label-value="yes">
+		<BlockGenus name="number-single-fixed-parallel" kind="data" color="205 133 63" initlabel="Parallel" editable-label="yes" is-label-value="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number-list" connector-kind="plug" position-type="single" />
 			</BlockConnectors>
@@ -2029,7 +2029,7 @@
 		</BlockGenus>
 
 
-		<BlockGenus name="true" kind="data" initlabel="bg.true" color="204 153 255" editable-label="no">
+		<BlockGenus name="true" kind="data" initlabel="bg.true" color="204 153 255" editable-label="yes">
 			<description>
 				<text>
 					Reports the boolean true.
@@ -2597,7 +2597,7 @@
 			</BlockConnectors>
 		</BlockGenus>
 
-		<BlockGenus name="glue_poly" kind="data" color="245 245 245" initlabel="bg.glue_poly" editable-label="no">
+		<BlockGenus name="glue_poly" kind="data" color="245 245 245" initlabel="bg.glue_poly" editable-label="yes">
 			<description>
 				<text></text>
 			</description>
@@ -2871,14 +2871,14 @@
 		<!-- </BlockGenus> -->
 
 		<!-- <BlockGenus name="sd_return" kind="data" color="255 255 0" -->
-		<!-- initlabel="bg.sd_return" editable-label="no"> -->
+		<!-- initlabel="bg.sd_return" editable-label="yes"> -->
 		<!-- <BlockConnectors> -->
 		<!-- <BlockConnector connector-type="string" -->
 		<!-- connector-kind="mirror" /> -->
 		<!-- </BlockConnectors> -->
 		<!-- </BlockGenus> -->
 		<!-- <BlockGenus name="sd_no_return" kind="data" color="255 255 0" -->
-		<!-- initlabel="bg.sd_no_return" editable-label="no"> -->
+		<!-- initlabel="bg.sd_no_return" editable-label="yes"> -->
 		<!-- <BlockConnectors> -->
 		<!-- <BlockConnector connector-type="string" -->
 		<!-- connector-kind="mirror" /> -->
@@ -2902,17 +2902,17 @@
 			<BlockConnectors>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="GROVE_CS" kind="data" color="214 169 54" initlabel="bg.GROVE_CS" editable-label="no">
+		<BlockGenus name="GROVE_CS" kind="data" color="214 169 54" initlabel="bg.GROVE_CS" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DUPONT_CS" kind="data" color="214 169 54" initlabel="bg.DUPONT_CS" editable-label="no">
+		<BlockGenus name="DUPONT_CS" kind="data" color="214 169 54" initlabel="bg.DUPONT_CS" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="ESPLORA_CS" kind="data" color="214 169 54" initlabel="bg.ESPLORA_CS" editable-label="no">
+		<BlockGenus name="ESPLORA_CS" kind="data" color="214 169 54" initlabel="bg.ESPLORA_CS" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
@@ -3352,63 +3352,63 @@
 			</Images>
 		</BlockGenus>
 
-		<BlockGenus name="Tinker_I0" kind="data" color="13 152 164" initlabel="bg.Tinker_I0" editable-label="no">
+		<BlockGenus name="Tinker_I0" kind="data" color="13 152 164" initlabel="bg.Tinker_I0" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Tinker_I1" kind="data" color="13 152 164" initlabel="bg.Tinker_I1" editable-label="no">
+		<BlockGenus name="Tinker_I1" kind="data" color="13 152 164" initlabel="bg.Tinker_I1" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Tinker_I2" kind="data" color="13 152 164" initlabel="bg.Tinker_I2" editable-label="no">
+		<BlockGenus name="Tinker_I2" kind="data" color="13 152 164" initlabel="bg.Tinker_I2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Tinker_I3" kind="data" color="13 152 164" initlabel="bg.Tinker_I3" editable-label="no">
+		<BlockGenus name="Tinker_I3" kind="data" color="13 152 164" initlabel="bg.Tinker_I3" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Tinker_I4" kind="data" color="13 152 164" initlabel="bg.Tinker_I4" editable-label="no">
+		<BlockGenus name="Tinker_I4" kind="data" color="13 152 164" initlabel="bg.Tinker_I4" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Tinker_I5" kind="data" color="13 152 164" initlabel="bg.Tinker_I5" editable-label="no">
+		<BlockGenus name="Tinker_I5" kind="data" color="13 152 164" initlabel="bg.Tinker_I5" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
 
-		<BlockGenus name="Tinker_O0" kind="data" color="214 169 54" initlabel="bg.Tinker_O0" editable-label="no">
+		<BlockGenus name="Tinker_O0" kind="data" color="214 169 54" initlabel="bg.Tinker_O0" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Tinker_O1" kind="data" color="214 169 54" initlabel="bg.Tinker_O1" editable-label="no">
+		<BlockGenus name="Tinker_O1" kind="data" color="214 169 54" initlabel="bg.Tinker_O1" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Tinker_O2" kind="data" color="214 169 54" initlabel="bg.Tinker_O2" editable-label="no">
+		<BlockGenus name="Tinker_O2" kind="data" color="214 169 54" initlabel="bg.Tinker_O2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Tinker_O3" kind="data" color="214 169 54" initlabel="bg.Tinker_O3" editable-label="no">
+		<BlockGenus name="Tinker_O3" kind="data" color="214 169 54" initlabel="bg.Tinker_O3" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Tinker_O4" kind="data" color="214 169 54" initlabel="bg.Tinker_O4" editable-label="no">
+		<BlockGenus name="Tinker_O4" kind="data" color="214 169 54" initlabel="bg.Tinker_O4" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Tinker_O5" kind="data" color="214 169 54" initlabel="bg.Tinker_O5" editable-label="no">
+		<BlockGenus name="Tinker_O5" kind="data" color="214 169 54" initlabel="bg.Tinker_O5" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
@@ -3481,63 +3481,63 @@
 		</BlockGenus>
 
 		<!-- ******** Panda Shield ******** -->
-		<BlockGenus name="panda_i1" kind="data" color="214 169 54" initlabel="bg.panda_i1" editable-label="no">
+		<BlockGenus name="panda_i1" kind="data" color="214 169 54" initlabel="bg.panda_i1" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="panda_i2" kind="data" color="214 169 54" initlabel="bg.panda_i2" editable-label="no">
+		<BlockGenus name="panda_i2" kind="data" color="214 169 54" initlabel="bg.panda_i2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="panda_i3" kind="data" color="214 169 54" initlabel="bg.panda_i3" editable-label="no">
+		<BlockGenus name="panda_i3" kind="data" color="214 169 54" initlabel="bg.panda_i3" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="panda_i4" kind="data" color="214 169 54" initlabel="bg.panda_i4" editable-label="no">
+		<BlockGenus name="panda_i4" kind="data" color="214 169 54" initlabel="bg.panda_i4" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="panda_i5" kind="data" color="214 169 54" initlabel="bg.panda_i5" editable-label="no">
+		<BlockGenus name="panda_i5" kind="data" color="214 169 54" initlabel="bg.panda_i5" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="panda_i6" kind="data" color="214 169 54" initlabel="bg.panda_i6" editable-label="no">
+		<BlockGenus name="panda_i6" kind="data" color="214 169 54" initlabel="bg.panda_i6" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
 		
-		<BlockGenus name="panda_o1" kind="data" color="214 169 54" initlabel="bg.panda_o1" editable-label="no">
+		<BlockGenus name="panda_o1" kind="data" color="214 169 54" initlabel="bg.panda_o1" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="panda_o2" kind="data" color="214 169 54" initlabel="bg.panda_o2" editable-label="no">
+		<BlockGenus name="panda_o2" kind="data" color="214 169 54" initlabel="bg.panda_o2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="panda_o3" kind="data" color="214 169 54" initlabel="bg.panda_o3" editable-label="no">
+		<BlockGenus name="panda_o3" kind="data" color="214 169 54" initlabel="bg.panda_o3" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="panda_o4" kind="data" color="214 169 54" initlabel="bg.panda_o4" editable-label="no">
+		<BlockGenus name="panda_o4" kind="data" color="214 169 54" initlabel="bg.panda_o4" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="panda_o5" kind="data" color="214 169 54" initlabel="bg.panda_o5" editable-label="no">
+		<BlockGenus name="panda_o5" kind="data" color="214 169 54" initlabel="bg.panda_o5" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="panda_o6" kind="data" color="214 169 54" initlabel="bg.panda_o6" editable-label="no">
+		<BlockGenus name="panda_o6" kind="data" color="214 169 54" initlabel="bg.panda_o6" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
@@ -5113,22 +5113,22 @@
 				</Image>
 			</Images>
 			</BlockGenus>
-			<BlockGenus name="DuinoEDU_IRREMOTE_MEMORISER_TOUCHE" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_IRREMOTE_MEMORISER_TOUCHE" editable-label="no">
+			<BlockGenus name="DuinoEDU_IRREMOTE_MEMORISER_TOUCHE" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_IRREMOTE_MEMORISER_TOUCHE" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_IRREMOTE_MEMORISER_2000_MS" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_IRREMOTE_MEMORISER_2000_MS" editable-label="no">
+		<BlockGenus name="DuinoEDU_IRREMOTE_MEMORISER_2000_MS" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_IRREMOTE_MEMORISER_2000_MS" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_IRREMOTE_MEMORISER_200_MS" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_IRREMOTE_MEMORISER_200_MS" editable-label="no">
+		<BlockGenus name="DuinoEDU_IRREMOTE_MEMORISER_200_MS" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_IRREMOTE_MEMORISER_200_MS" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_IRREMOTE_NE_PAS_MEMORISER" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_IRREMOTE_NE_PAS_MEMORISER" editable-label="no">
+		<BlockGenus name="DuinoEDU_IRREMOTE_NE_PAS_MEMORISER" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_IRREMOTE_NE_PAS_MEMORISER" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
@@ -5403,32 +5403,32 @@
 			</Images>
 			</BlockGenus>
 			
-			<BlockGenus name="DuinoEDU_equal" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_equal" editable-label="no">
+			<BlockGenus name="DuinoEDU_equal" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_equal" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="boolean" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_not_equal" kind="data" color="214 169 54" initlabel="DuinoEDU_not_equal" editable-label="no">
+		<BlockGenus name="DuinoEDU_not_equal" kind="data" color="214 169 54" initlabel="DuinoEDU_not_equal" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="boolean" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_greater" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_greater" editable-label="no">
+		<BlockGenus name="DuinoEDU_greater" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_greater" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="boolean" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_less" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_less" editable-label="no">
+		<BlockGenus name="DuinoEDU_less" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_less" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="boolean" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_greater_equal" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_greater_equal" editable-label="no">
+		<BlockGenus name="DuinoEDU_greater_equal" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_greater_equal" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="boolean" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_less_equal" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_less_equal" editable-label="no">
+		<BlockGenus name="DuinoEDU_less_equal" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_less_equal" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="boolean" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>		
@@ -5519,14 +5519,14 @@
 			</BlockConnectors>			
 	</BlockGenus>
 	
-	<BlockGenus name="DuinoEDU_setSerialInfosOn" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_setSerialInfosOn" editable-label="no">
+	<BlockGenus name="DuinoEDU_setSerialInfosOn" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_setSerialInfosOn" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 	</BlockGenus>
 		
 		
-	<BlockGenus name="DuinoEDU_setSerialInfosOff" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_setSerialInfosOff" editable-label="no">
+	<BlockGenus name="DuinoEDU_setSerialInfosOff" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_setSerialInfosOff" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
@@ -5604,22 +5604,22 @@
 			</Images>
 		</BlockGenus>
 
-		<BlockGenus name="DuinoEDU_On_digit1" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_On_digit1" editable-label="no">
+		<BlockGenus name="DuinoEDU_On_digit1" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_On_digit1" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_On_digit2" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_On_digit2" editable-label="no">
+		<BlockGenus name="DuinoEDU_On_digit2" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_On_digit2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>	
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_On_digit3" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_On_digit3" editable-label="no">
+		<BlockGenus name="DuinoEDU_On_digit3" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_On_digit3" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>	
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_On_digit4" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_On_digit4" editable-label="no">
+		<BlockGenus name="DuinoEDU_On_digit4" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_On_digit4" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>				
@@ -5763,17 +5763,17 @@
 		</BlockGenus>
 		
 		
-		<BlockGenus name="DuinoEDU_right" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_right" editable-label="no">
+		<BlockGenus name="DuinoEDU_right" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_right" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-						<BlockGenus name="DuinoEDU_straight" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_straight" editable-label="no">
+						<BlockGenus name="DuinoEDU_straight" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_straight" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-						<BlockGenus name="DuinoEDU_left" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_left" editable-label="no">
+						<BlockGenus name="DuinoEDU_left" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_left" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
@@ -6340,22 +6340,22 @@
 				</BlockConnector>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Volts" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Volts" editable-label="no">
+		<BlockGenus name="DuinoEDU_Volts" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Volts" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_VALEURS_BRUTES" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_VALEURS_BRUTES" editable-label="no">
+		<BlockGenus name="DuinoEDU_VALEURS_BRUTES" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_VALEURS_BRUTES" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_CM" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_CM" editable-label="no">
+		<BlockGenus name="DuinoEDU_CM" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_CM" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_DEGRES" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_DEGRES" editable-label="no">
+		<BlockGenus name="DuinoEDU_DEGRES" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_DEGRES" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>		
@@ -6549,27 +6549,27 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_S1" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_S1" editable-label="no">
+		<BlockGenus name="DuinoEDU_S1" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_S1" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_S2" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_S2" editable-label="no">
+		<BlockGenus name="DuinoEDU_S2" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_S2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_S3" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_S3" editable-label="no">
+		<BlockGenus name="DuinoEDU_S3" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_S3" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_S4" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_S4" editable-label="no">
+		<BlockGenus name="DuinoEDU_S4" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_S4" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_S5" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_S5" editable-label="no">
+		<BlockGenus name="DuinoEDU_S5" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_S5" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>		
@@ -6723,182 +6723,182 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_D2" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D2" editable-label="no">
+		<BlockGenus name="DuinoEDU_D2" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_D3" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D3" editable-label="no">
+<BlockGenus name="DuinoEDU_D3" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D3" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_D4" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D4" editable-label="no">
+<BlockGenus name="DuinoEDU_D4" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D4" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_D5" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D5" editable-label="no">
+<BlockGenus name="DuinoEDU_D5" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D5" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_D6" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D6" editable-label="no">
+<BlockGenus name="DuinoEDU_D6" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D6" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_D7" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D7" editable-label="no">
+<BlockGenus name="DuinoEDU_D7" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D7" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_D8" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D8" editable-label="no">
+<BlockGenus name="DuinoEDU_D8" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D8" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_D9" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D9" editable-label="no">
+<BlockGenus name="DuinoEDU_D9" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D9" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_D10" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D10" editable-label="no">
+<BlockGenus name="DuinoEDU_D10" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D10" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_D11" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D11" editable-label="no">
+<BlockGenus name="DuinoEDU_D11" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D11" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_D12" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D12" editable-label="no">
+<BlockGenus name="DuinoEDU_D12" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D12" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_D13" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D13" editable-label="no">
+<BlockGenus name="DuinoEDU_D13" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D13" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_D14" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D14" editable-label="no">
+<BlockGenus name="DuinoEDU_D14" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D14" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_D15" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D15" editable-label="no">
+<BlockGenus name="DuinoEDU_D15" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D15" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_D16" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D16" editable-label="no">
+<BlockGenus name="DuinoEDU_D16" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D16" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_D17" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D17" editable-label="no">
+<BlockGenus name="DuinoEDU_D17" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D17" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_D18" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D18" editable-label="no">
+<BlockGenus name="DuinoEDU_D18" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D18" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_D19" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D19" editable-label="no">
+<BlockGenus name="DuinoEDU_D19" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D19" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_D20" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D20" editable-label="no">
+<BlockGenus name="DuinoEDU_D20" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D20" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_D21" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D21" editable-label="no">
+<BlockGenus name="DuinoEDU_D21" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_D21" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_A0" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A0" editable-label="no">
+<BlockGenus name="DuinoEDU_A0" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A0" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_A1" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A1" editable-label="no">
+		<BlockGenus name="DuinoEDU_A1" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A1" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_A2" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A2" editable-label="no">
+<BlockGenus name="DuinoEDU_A2" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_A3" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A3" editable-label="no">
+<BlockGenus name="DuinoEDU_A3" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A3" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_A4" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A4" editable-label="no">
+<BlockGenus name="DuinoEDU_A4" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A4" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_A5" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A5" editable-label="no">
+<BlockGenus name="DuinoEDU_A5" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A5" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_A6" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A6" editable-label="no">
+<BlockGenus name="DuinoEDU_A6" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A6" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_A7" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A7" editable-label="no">
+<BlockGenus name="DuinoEDU_A7" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A7" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_A8" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A8" editable-label="no">
+<BlockGenus name="DuinoEDU_A8" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A8" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_A9" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A9" editable-label="no">
+<BlockGenus name="DuinoEDU_A9" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A9" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_A10" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A10" editable-label="no">
+<BlockGenus name="DuinoEDU_A10" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A10" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_A11" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A11" editable-label="no">
+<BlockGenus name="DuinoEDU_A11" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A11" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_A12" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A12" editable-label="no">
+<BlockGenus name="DuinoEDU_A12" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A12" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_A13" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A13" editable-label="no">
+<BlockGenus name="DuinoEDU_A13" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A13" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_A14" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A14" editable-label="no">
+<BlockGenus name="DuinoEDU_A14" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A14" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-<BlockGenus name="DuinoEDU_A15" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A15" editable-label="no">
+<BlockGenus name="DuinoEDU_A15" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_A15" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
@@ -7340,162 +7340,162 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="EDUGPS_1HZ" kind="data" color="214 169 54" initlabel="bg.EDUGPS_1HZ" editable-label="no">
+		<BlockGenus name="EDUGPS_1HZ" kind="data" color="214 169 54" initlabel="bg.EDUGPS_1HZ" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="EDUGPS_5HZ" kind="data" color="214 169 54" initlabel="bg.EDUGPS_5HZ" editable-label="no">
+		<BlockGenus name="EDUGPS_5HZ" kind="data" color="214 169 54" initlabel="bg.EDUGPS_5HZ" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="EDUGPS_10HZ" kind="data" color="214 169 54" initlabel="bg.EDUGPS_10HZ" editable-label="no">
+		<BlockGenus name="EDUGPS_10HZ" kind="data" color="214 169 54" initlabel="bg.EDUGPS_10HZ" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="EDUGPS_100MLHZ" kind="data" color="214 169 54" initlabel="bg.EDUGPS_100MLHZ" editable-label="no">
+		<BlockGenus name="EDUGPS_100MLHZ" kind="data" color="214 169 54" initlabel="bg.EDUGPS_100MLHZ" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="EDUGPS_200MLHZ" kind="data" color="214 169 54" initlabel="bg.EDUGPS_200MLHZ" editable-label="no">
+		<BlockGenus name="EDUGPS_200MLHZ" kind="data" color="214 169 54" initlabel="bg.EDUGPS_200MLHZ" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Information1" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Information1" editable-label="no">
+		<BlockGenus name="DuinoEDU_Information1" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Information1" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Information2" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Information2" editable-label="no">
+		<BlockGenus name="DuinoEDU_Information2" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Information2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Information3" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Information3" editable-label="no">
+		<BlockGenus name="DuinoEDU_Information3" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Information3" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Uno23" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Uno23" editable-label="no">
+		<BlockGenus name="DuinoEDU_Uno23" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Uno23" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Uno45" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Uno45" editable-label="no">
+		<BlockGenus name="DuinoEDU_Uno45" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Uno45" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Uno67" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Uno67" editable-label="no">
+		<BlockGenus name="DuinoEDU_Uno67" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Uno67" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Uno89" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Uno89" editable-label="no">
+		<BlockGenus name="DuinoEDU_Uno89" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Uno89" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Mega1" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Mega1" editable-label="no">
+		<BlockGenus name="DuinoEDU_Mega1" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Mega1" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Mega2" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Mega2" editable-label="no">
+		<BlockGenus name="DuinoEDU_Mega2" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Mega2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Mega3" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Mega3" editable-label="no">
+		<BlockGenus name="DuinoEDU_Mega3" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Mega3" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Mega4" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Mega4" editable-label="no">
+		<BlockGenus name="DuinoEDU_Mega4" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Mega4" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Gps_LatitudeNbr" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_LatitudeNbr" editable-label="no">
+		<BlockGenus name="DuinoEDU_Gps_LatitudeNbr" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_LatitudeNbr" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Gps_LongitudeNbr" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_LongitudeNbr" editable-label="no">
+		<BlockGenus name="DuinoEDU_Gps_LongitudeNbr" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_LongitudeNbr" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Gps_LatitudeDirection" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_LatitudeDirection" editable-label="no">
+		<BlockGenus name="DuinoEDU_Gps_LatitudeDirection" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_LatitudeDirection" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Gps_LongitudeDirection" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_LongitudeDirection" editable-label="no">
+		<BlockGenus name="DuinoEDU_Gps_LongitudeDirection" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_LongitudeDirection" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Gps_LatitudeGoogleMaps" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_LatitudeGoogleMaps" editable-label="no">
+		<BlockGenus name="DuinoEDU_Gps_LatitudeGoogleMaps" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_LatitudeGoogleMaps" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Gps_LongitudeGoogleMaps" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_LongitudeGoogleMaps" editable-label="no">
+		<BlockGenus name="DuinoEDU_Gps_LongitudeGoogleMaps" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_LongitudeGoogleMaps" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Gps_Day" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_Day" editable-label="no">
+		<BlockGenus name="DuinoEDU_Gps_Day" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_Day" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Gps_Month" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_Month" editable-label="no">
+		<BlockGenus name="DuinoEDU_Gps_Month" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_Month" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Gps_Year" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_Year" editable-label="no">
+		<BlockGenus name="DuinoEDU_Gps_Year" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_Year" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Gps_Hour" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_Hour" editable-label="no">
+		<BlockGenus name="DuinoEDU_Gps_Hour" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_Hour" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Gps_Minute" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_Minute" editable-label="no">
+		<BlockGenus name="DuinoEDU_Gps_Minute" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_Minute" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Gps_Seconde" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_Seconde" editable-label="no">
+		<BlockGenus name="DuinoEDU_Gps_Seconde" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_Seconde" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Gps_Milliseconde" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_Milliseconde" editable-label="no">
+		<BlockGenus name="DuinoEDU_Gps_Milliseconde" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_Milliseconde" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Gps_Speed" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_Speed" editable-label="no">
+		<BlockGenus name="DuinoEDU_Gps_Speed" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_Speed" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Gps_Angle" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_Angle" editable-label="no">
+		<BlockGenus name="DuinoEDU_Gps_Angle" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_Angle" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Gps_altitude" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_altitude" editable-label="no">
+		<BlockGenus name="DuinoEDU_Gps_altitude" kind="data" color="0 255 0" initlabel="bg.DuinoEDU_Gps_altitude" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
@@ -7505,12 +7505,12 @@
 				<BlockConnector connector-type="boolean" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Gps_ActiverInterruption" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Gps_ActiverInterruption" editable-label="no">
+		<BlockGenus name="DuinoEDU_Gps_ActiverInterruption" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Gps_ActiverInterruption" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="DuinoEDU_Gps_DesactiverInterruption" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Gps_DesactiverInterruption" editable-label="no">
+		<BlockGenus name="DuinoEDU_Gps_DesactiverInterruption" kind="data" color="214 169 54" initlabel="bg.DuinoEDU_Gps_DesactiverInterruption" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
@@ -8274,22 +8274,22 @@
 	        </BlockConnector>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="ESPLORA_OUTA" kind="data" color="214 169 54" initlabel="bg.ESPLORA_OUTA" editable-label="no">
+		<BlockGenus name="ESPLORA_OUTA" kind="data" color="214 169 54" initlabel="bg.ESPLORA_OUTA" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="ESPLORA_OUTB" kind="data" color="214 169 54" initlabel="bg.ESPLORA_OUTB" editable-label="no">
+		<BlockGenus name="ESPLORA_OUTB" kind="data" color="214 169 54" initlabel="bg.ESPLORA_OUTB" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="ESPLORA_INA" kind="data" color="214 169 54" initlabel="bg.ESPLORA_INB" editable-label="no">
+		<BlockGenus name="ESPLORA_INA" kind="data" color="214 169 54" initlabel="bg.ESPLORA_INB" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
 		</BlockGenus>
-		<BlockGenus name="ESPLORA_INB" kind="data" color="214 169 54" initlabel="bg.ESPLORA_INB" editable-label="no">
+		<BlockGenus name="ESPLORA_INB" kind="data" color="214 169 54" initlabel="bg.ESPLORA_INB" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug"/>
 			</BlockConnectors>		
@@ -8816,25 +8816,25 @@
 			</Images> -->
 		</BlockGenus>
 		
-		<BlockGenus name="ada_neopixel_NEO_KHZ800" kind="data" color="214 169 54" initlabel="bg.ada_neopixel_NEO_KHZ800" editable-label="no">
+		<BlockGenus name="ada_neopixel_NEO_KHZ800" kind="data" color="214 169 54" initlabel="bg.ada_neopixel_NEO_KHZ800" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
 		
-		<BlockGenus name="ada_neopixel_NEO_KHZ400" kind="data" color="214 169 54" initlabel="bg.ada_neopixel_NEO_KHZ400" editable-label="no">
+		<BlockGenus name="ada_neopixel_NEO_KHZ400" kind="data" color="214 169 54" initlabel="bg.ada_neopixel_NEO_KHZ400" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
 		
-		<BlockGenus name="ada_neopixel_NEO_GRB" kind="data" color="214 169 54" initlabel="bg.ada_neopixel_NEO_GRB" editable-label="no">
+		<BlockGenus name="ada_neopixel_NEO_GRB" kind="data" color="214 169 54" initlabel="bg.ada_neopixel_NEO_GRB" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
 		</BlockGenus>
 		
-		<BlockGenus name="ada_neopixel_NEO_RGB" kind="data" color="214 169 54" initlabel="bg.ada_neopixel_NEO_RGB" editable-label="no">
+		<BlockGenus name="ada_neopixel_NEO_RGB" kind="data" color="214 169 54" initlabel="bg.ada_neopixel_NEO_RGB" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror" />
 			</BlockConnectors>
@@ -9184,7 +9184,7 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="me_port_1" kind="data" color="0 177 236" initlabel="bg.me_port_1" editable-label="no">
+		<BlockGenus name="me_port_1" kind="data" color="0 177 236" initlabel="bg.me_port_1" editable-label="yes">
 			<description>
 				<text>Me Base Shield Port</text>
 			</description>
@@ -9194,56 +9194,56 @@
 				</BlockConnector>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="me_port_2" kind="data" color="0 177 236" initlabel="bg.me_port_2" editable-label="no">
+		<BlockGenus name="me_port_2" kind="data" color="0 177 236" initlabel="bg.me_port_2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug">
 					<DefaultArg genus-name="number" label="2" />
 				</BlockConnector>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="me_port_3" kind="data" color="0 177 236" initlabel="bg.me_port_3" editable-label="no">
+		<BlockGenus name="me_port_3" kind="data" color="0 177 236" initlabel="bg.me_port_3" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug">
 					<DefaultArg genus-name="number" label="3" />
 				</BlockConnector>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="me_port_4" kind="data" color="0 177 236" initlabel="bg.me_port_4" editable-label="no">
+		<BlockGenus name="me_port_4" kind="data" color="0 177 236" initlabel="bg.me_port_4" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug">
 					<DefaultArg genus-name="number" label="4" />
 				</BlockConnector>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="me_port_5" kind="data" color="0 177 236" initlabel="bg.me_port_5" editable-label="no">
+		<BlockGenus name="me_port_5" kind="data" color="0 177 236" initlabel="bg.me_port_5" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" >
 					<DefaultArg genus-name="number" label="5" />
 				</BlockConnector>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="me_port_6" kind="data" color="0 177 236" initlabel="bg.me_port_6" editable-label="no">
+		<BlockGenus name="me_port_6" kind="data" color="0 177 236" initlabel="bg.me_port_6" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" >
 					<DefaultArg genus-name="number" label="6" />
 				</BlockConnector>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="me_port_7" kind="data" color="0 177 236" initlabel="bg.me_port_7" editable-label="no">
+		<BlockGenus name="me_port_7" kind="data" color="0 177 236" initlabel="bg.me_port_7" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" >
 					<DefaultArg genus-name="number" label="7" />
 				</BlockConnector>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="me_port_8" kind="data" color="0 177 236" initlabel="bg.me_port_8" editable-label="no">
+		<BlockGenus name="me_port_8" kind="data" color="0 177 236" initlabel="bg.me_port_8" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug">
 					<DefaultArg genus-name="number" label="8" />
 				</BlockConnector>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="me_motor_1" kind="data" color="0 177 236" initlabel="bg.me_motor_1" editable-label="no">
+		<BlockGenus name="me_motor_1" kind="data" color="0 177 236" initlabel="bg.me_motor_1" editable-label="yes">
 			<description>
 				<text>Me Base Shield DC Motor Port</text>
 			</description>
@@ -9253,14 +9253,14 @@
 				</BlockConnector>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="me_motor_2" kind="data" color="0 177 236" initlabel="bg.me_port_2" editable-label="no">
+		<BlockGenus name="me_motor_2" kind="data" color="0 177 236" initlabel="bg.me_port_2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug">
 					<DefaultArg genus-name="number" label="2" />
 				</BlockConnector>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="me_shutter_1" kind="data" color="0 177 236" initlabel="bg.me_shutter_1" editable-label="no">
+		<BlockGenus name="me_shutter_1" kind="data" color="0 177 236" initlabel="bg.me_shutter_1" editable-label="yes">
 			<description>
 				<text>Me Shutter Action</text>
 			</description>
@@ -9270,21 +9270,21 @@
 				</BlockConnector>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="me_shutter_2" kind="data" color="0 177 236" initlabel="bg.me_shutter_2" editable-label="no">
+		<BlockGenus name="me_shutter_2" kind="data" color="0 177 236" initlabel="bg.me_shutter_2" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug">
 					<DefaultArg genus-name="number" label="2" />
 				</BlockConnector>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="me_shutter_3" kind="data" color="0 177 236" initlabel="bg.me_shutter_3" editable-label="no">
+		<BlockGenus name="me_shutter_3" kind="data" color="0 177 236" initlabel="bg.me_shutter_3" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug">
 					<DefaultArg genus-name="number" label="3" />
 				</BlockConnector>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="me_shutter_4" kind="data" color="0 177 236" initlabel="bg.me_shutter_4" editable-label="no">
+		<BlockGenus name="me_shutter_4" kind="data" color="0 177 236" initlabel="bg.me_shutter_4" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug">
 					<DefaultArg genus-name="number" label="4" />
@@ -10717,7 +10717,7 @@
 			</BlockConnectors>
 		</BlockGenus>
 
-		<BlockGenus name="trigger_equal" kind="data" color="222 131 51" initlabel="bg.trigger_equal" editable-label="no">
+		<BlockGenus name="trigger_equal" kind="data" color="222 131 51" initlabel="bg.trigger_equal" editable-label="yes">
 			<description>
 				<text>
 					trigger equal
@@ -10728,7 +10728,7 @@
 			</BlockConnectors>
 		</BlockGenus>
 
-		<BlockGenus name="trigger_greater" kind="data" color="222 131 51" initlabel="bg.trigger_greater" editable-label="no">
+		<BlockGenus name="trigger_greater" kind="data" color="222 131 51" initlabel="bg.trigger_greater" editable-label="yes">
 			<description>
 				<text>
 					trigger greater
@@ -10739,7 +10739,7 @@
 			</BlockConnectors>
 		</BlockGenus>
 
-		<BlockGenus name="trigger_less" kind="data" color="222 131 51" initlabel="bg.trigger_less" editable-label="no">
+		<BlockGenus name="trigger_less" kind="data" color="222 131 51" initlabel="bg.trigger_less" editable-label="yes">
 			<description>
 				<text>
 					trigger less
@@ -11006,63 +11006,63 @@
 			</Images>
 		</BlockGenus>
 
-		<BlockGenus name="Midi_C" kind="data" color="255 255 255" initlabel="bg.Midi_C" editable-label="no">
+		<BlockGenus name="Midi_C" kind="data" color="255 255 255" initlabel="bg.Midi_C" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror"/>
 			</BlockConnectors>
 		</BlockGenus>
 
-		<BlockGenus name="Midi_CS" kind="data" color="255 255 255" initlabel="bg.Midi_CS" editable-label="no">
+		<BlockGenus name="Midi_CS" kind="data" color="255 255 255" initlabel="bg.Midi_CS" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror"/>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Midi_D" kind="data" color="255 255 255" initlabel="bg.Midi_D" editable-label="no">
+		<BlockGenus name="Midi_D" kind="data" color="255 255 255" initlabel="bg.Midi_D" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror"/>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Midi_DS" kind="data" color="255 255 255" initlabel="bg.Midi_DS" editable-label="no">
+		<BlockGenus name="Midi_DS" kind="data" color="255 255 255" initlabel="bg.Midi_DS" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror"/>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Midi_E" kind="data" color="255 255 255" initlabel="bg.Midi_E" editable-label="no">
+		<BlockGenus name="Midi_E" kind="data" color="255 255 255" initlabel="bg.Midi_E" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror"/>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Midi_F" kind="data" color="255 255 255" initlabel="bg.Midi_F" editable-label="no">
+		<BlockGenus name="Midi_F" kind="data" color="255 255 255" initlabel="bg.Midi_F" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror"/>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Midi_FS" kind="data" color="255 255 255" initlabel="bg.Midi_FS" editable-label="no">
+		<BlockGenus name="Midi_FS" kind="data" color="255 255 255" initlabel="bg.Midi_FS" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror"/>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Midi_G" kind="data" color="255 255 255" initlabel="bg.Midi_G" editable-label="no">
+		<BlockGenus name="Midi_G" kind="data" color="255 255 255" initlabel="bg.Midi_G" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror"/>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Midi_GS" kind="data" color="255 255 255" initlabel="bg.Midi_GS" editable-label="no">
+		<BlockGenus name="Midi_GS" kind="data" color="255 255 255" initlabel="bg.Midi_GS" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror"/>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Midi_A" kind="data" color="255 255 255" initlabel="bg.Midi_A" editable-label="no">
+		<BlockGenus name="Midi_A" kind="data" color="255 255 255" initlabel="bg.Midi_A" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror"/>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Midi_AS" kind="data" color="255 255 255" initlabel="bg.Midi_AS" editable-label="no">
+		<BlockGenus name="Midi_AS" kind="data" color="255 255 255" initlabel="bg.Midi_AS" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror"/>
 			</BlockConnectors>
 		</BlockGenus>
-		<BlockGenus name="Midi_B" kind="data" color="255 255 255" initlabel="bg.Midi_B" editable-label="no">
+		<BlockGenus name="Midi_B" kind="data" color="255 255 255" initlabel="bg.Midi_B" editable-label="yes">
 			<BlockConnectors>
 				<BlockConnector connector-type="number" connector-kind="plug" position-type="mirror"/>
 			</BlockConnectors>

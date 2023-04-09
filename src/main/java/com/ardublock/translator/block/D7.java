@@ -14,7 +14,7 @@ public class D7 extends TranslatorBlock
 
 		@Override
 		public String toCode() throws SocketNullException {
-			return codePrefix + "7" + codeSuffix;
+			return codePrefix + label + codeSuffix;
 		}
 		
 	}
