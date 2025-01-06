@@ -46,6 +46,7 @@ public class OpenblocksFrame extends JFrame
 
 	private Context context;
 	private JFileChooser fileChooser;
+        private JFileChooser CfileChooser;
 	private FileFilter ffilter;
 	
 	private ResourceBundle uiMessageBundle;
@@ -81,6 +82,11 @@ public class OpenblocksFrame extends JFrame
 		ffilter = new FileNameExtensionFilter(uiMessageBundle.getString("ardublock.file.suffix"), "abp");
 		fileChooser.setFileFilter(ffilter);
 		fileChooser.addChoosableFileFilter(ffilter);
+                
+                CfileChooser = new JFileChooser();
+                FileFilter cfilter = new FileNameExtensionFilter(uiMessageBundle.getString("ardublock.file.suffixc"), "ino");
+                CfileChooser.setFileFilter(cfilter);
+                CfileChooser.addChoosableFileFilter(cfilter);
 		
 		initOpenBlocks();
 	}
@@ -268,6 +274,16 @@ public class OpenblocksFrame extends JFrame
 		chooseFileAndSave(saveString);
 		
 	}
+        
+        public void doSaveAsArduCFile(String code)
+        {
+            if (context.isWorkspaceEmpty())
+            {
+                    return ;
+            }
+
+            chooseFileAndSave(code, ".ino");
+        }
 	
 	private boolean chooseFileAndSave(String ardublockString)
 	{
@@ -284,6 +300,23 @@ public class OpenblocksFrame extends JFrame
 		}
 		
 		writeFileAndUpdateFrame(ardublockString, saveFile);
+		return true;
+	}
+        private boolean chooseFileAndSave(String input, String suffix)
+	{
+		File saveFile = letUserChooseCSaveFile();
+		saveFile = checkFileSuffix(saveFile, suffix);
+		if (saveFile == null)
+		{
+			return false;
+		}
+		
+		if (saveFile.exists() && !askUserOverwriteExistedFile())
+		{
+			return false;
+		}
+		
+		writeFileAndUpdateFrame(input, saveFile);
 		return true;
 	}
 	
@@ -315,6 +348,17 @@ public class OpenblocksFrame extends JFrame
 		if (chooseResult == JFileChooser.APPROVE_OPTION)
 		{
 			return fileChooser.getSelectedFile();
+		}
+		return null;
+	}
+        
+        private File letUserChooseCSaveFile()
+	{
+		int chooseResult;
+		chooseResult = CfileChooser.showSaveDialog(this);
+		if (chooseResult == JFileChooser.APPROVE_OPTION)
+		{
+			return CfileChooser.getSelectedFile();
 		}
 		return null;
 	}
@@ -411,4 +455,17 @@ public class OpenblocksFrame extends JFrame
 			return new File(filePath + ".abp");
 		}
 	}
+        
+        private File checkFileSuffix(File saveFile, String suffix)
+        {
+                String filePath = saveFile.getAbsolutePath();
+		if (filePath.endsWith(suffix))
+		{
+			return saveFile;
+		}
+		else
+		{
+			return new File(filePath + suffix);
+		}
+        }
 }

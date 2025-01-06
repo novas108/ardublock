@@ -16,6 +16,7 @@ import com.ardublock.translator.block.exception.BlockException;
 import com.ardublock.translator.block.exception.SocketNullException;
 import com.ardublock.translator.block.exception.SubroutineNameDuplicatedException;
 import com.ardublock.translator.block.exception.SubroutineNotDeclaredException;
+import com.ardublock.ui.OpenblocksFrame;
 
 import edu.mit.blocks.codeblocks.Block;
 import edu.mit.blocks.renderable.RenderableBlock;
@@ -257,9 +258,12 @@ public class GenerateCodeButtonListener implements ActionListener
 			
 			if (!context.isInArduino())
 			{
+                                OpenblocksFrame frame = (OpenblocksFrame) this.parentFrame;
 				System.out.println(codeOut);
+                                frame.doSaveAsArduCFile(codeOut);
 			}		
 			context.didGenerate(codeOut);
+                        
 		}
 	}
 }
