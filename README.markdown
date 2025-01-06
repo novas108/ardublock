@@ -1,7 +1,8 @@
 ArduBlock --edited for standalone
+======
 JAN 2025 edited to use it as stanalone ("Upload to Arduino" button changed to "Export to Arduino").
 It may be run as "java -jar ardublock-all.jar" (jar may be found in th release section).
-======
+
 
 ArduBlock is a Block Programming Language for Arduino. The language and functions model closely to [Arduino Language Reference](http://arduino.cc/en/Reference/HomePage)
 
